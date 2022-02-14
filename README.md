@@ -6,5 +6,7 @@
 
 <!-- describe the project -->
 Here is a [Demo Link](https://radhi-hudijan.github.io/Countdown-Timer/index.html)
+
+![Alt app screenshot](public/Screenshot.png)
 ---
 
